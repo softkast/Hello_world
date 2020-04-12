@@ -5,6 +5,7 @@ fun main()
     for(x in 3..10)
     {
         println("liczba $x")
+        println("jakak")
     }
 }
 
